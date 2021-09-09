@@ -1,0 +1,10 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+a
+{
+    width: 200px;
+    border-radius: 300%;
+}
